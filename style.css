@@ -1,0 +1,156 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+/* .img-header {
+    width: 1200px;
+    height: 800px;
+    /* background-image: url('http://127.0.0.1:5500/images/IMAGE.png'); */
+    /* position: relative;
+    display: block;
+} */
+
+
+.header-wrapper {
+    display: flex;
+}
+
+.ul-1 {
+    display: flex;
+    font-weight: 500;
+    font-size: 15px;
+    gap: 30px;
+    list-style: none;
+    margin-right: 7000px;
+    width: 100px;
+}
+
+.ul-2{
+    display: flex;
+    font-weight: 500;
+    font-size: 15px;
+    gap: 30px;
+    list-style: none;
+    margin-left: 940px;
+    margin-bottom: 80px;
+    width: 100px;
+}
+
+
+.h1-1 {
+    font-size: 63px;
+    font-weight: 400;
+    line-height: 65px;
+}
+
+.btn-1 {
+    width: 200px;
+    height: 37px;
+    background-color:  #1F1E1E;
+    color: white;
+    margin-top: 20px;
+}
+
+.header-wrapper {
+    background-image: url(./images/IMAGE.png);
+}
+
+.section-content {
+    background-image: url(./images/IMAGE.png);
+}
+
+
+
+
+.p-content-1 {
+    margin-left: 1050px;
+    margin-top: 250px;
+    color:  #3C3C3C;
+}
+
+.p-content-2{
+    display: inline;
+    margin-left: 1050px;
+}
+
+.p-content-3 {
+    display: inline;
+    margin-left: 1230px;
+    margin-bottom: 60px;
+}
+
+.section-content-2 {
+    margin: 90px;
+}
+
+
+.text-1 {
+    /* margin-left: 90px; */
+    margin-top: 30px;
+    /* font-size: 10px; */
+    /* font-weight: 500; */
+
+    height: 30px;
+}
+
+.text-2 {
+    /* margin-left: 30px; */
+    margin-top: 30px;
+    /* font-size: 10px; */
+    font-weight: 500;
+    height: 30px;
+}
+
+
+/* .text-3 {
+    /* font-size: 10px; */
+    /* font-weight: 500;
+    margin-top: 70px;
+    justify-content: flex-start;
+} */ 
+
+.text {
+    display: flex;
+    gap: 15px;
+
+}
+
+.text-3 {
+    margin-top: 30px;
+    margin-left: 145px;
+}
+
+
+.text-4 {
+    font-weight: 500;
+    margin-top: 30px;
+    margin-left: 0px;
+}
+
+.text-5 {
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+.text-6 {
+    margin-top: 30px;
+    font-weight: 500;
+}
+
+.text-7 {
+    margin-left: 120px;
+    margin-top: 30px;
+}
+
+
+.text-8 {
+    margin-top: 30px;
+    font-weight: 500;
+}
